@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about (pls dont im just a newbie)
 - 📫 How to reach me: ltafnan48@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i l
+- ⚡ Fun fact: I like to explore many things about git and programming language
