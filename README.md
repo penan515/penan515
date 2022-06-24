@@ -1,3 +1,6 @@
+
+# ![penan515's GitHub stats](https://github-readme-stats.vercel.app/api?username=penan515&count_private=true&show_icons=true&theme=radical&count_private_prs=true&count_issues=true&stargazers=true&followers=true&totalRepos=true)
+
 ### Hi there 👋
 
 <!--
